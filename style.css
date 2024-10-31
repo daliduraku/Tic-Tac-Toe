@@ -104,3 +104,10 @@ h1 {
     height: 30px;
 }
 
+/* result display */
+#result-display {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #666;
+    text-align: center;
+}
